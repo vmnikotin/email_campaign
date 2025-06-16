@@ -1,0 +1,84 @@
+<!DOCTYPE html><html lang="ru"><head>
+  
+  <title>Письмо от Наташи Синдеевой</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f0f0f0;">
+  <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#f0f0f0">
+    <tbody><tr>
+      <td align="center">
+        <table width="600" cellpadding="0" cellspacing="0" bgcolor="#fff4f6" style="max-width:600px; width:100%;">
+          <!-- ХЕДЕР -->
+          <tbody><tr>
+            <td style="text-align: left; padding: 40px 24px 0 24px;">
+                <img src="https://cdn.jsdelivr.net/gh/vmnikotin/email_campaign@main/tvrain-ru-header-image.svg"
+                   alt="Хедер"
+                   style="max-width: 111px; width: 100%; height: auto; display: block;">
+                <hr style="border: none; border-top: 1px solid #aaa; margin: 20px 0 0 0;">
+            </td>
+          </tr>
+
+          <!-- ТЕЛО ПИСЬМА -->
+          <tr>
+            <td style="padding:40px 24px; font-family:Arial,sans-serif; color:#222; line-height:1.6; font-size:16px;">
+              <h2 style="font-weight:normal; text-align:center;">Привет!</h2>
+
+              <p>Вы читаете письмо от команды Дождя и лично от меня — Натальи Синдеевой. До этого мы никогда не писали подобных писем, но всегда приходится делать что-то в первый раз. Сейчас объясним почему.</p>
+
+              <a href="https://www.youtube.com/watch?v=yy8PuZubNDI" target="_blank" style="display:block; margin:20px 0; text-align:center;">
+                <img src="https://img.youtube.com/vi/yy8PuZubNDI/maxresdefault.jpg" alt="Письмо от Наташи Синдеевой" style="max-width:100%; height:auto; border:none;">
+              </a>
+
+              <p>После начала войны наша жизнь изменилась — как и жизни многих других людей. Мы тоже уехали из России и теперь работаем из Амстердама. Наша задача стала шире — не только делать качественную журналистику, но и поддерживать и объединять сообщество русскоязычных людей, раскиданных по всему миру.</p>
+
+              <p>Для начала мы решили сделать эту рассылку. Здесь мы хотели бы делиться новостями, анонсировать офлайн-мероприятия, а заодно — рассказывать о рекламных возможностях Дождя. Потому что это тоже способ сообщить друг другу о себе. Кроме того, мы хотим оставаться независимым медиа, а для этого важно строить полноценную прозрачную коммуникацию с нашими партнёрами и рекламодателями.</p>
+
+              <p>Что вы думаете о такой рассылке? Если вам интересно получать наши письма и читать про рекламу на Дожде — оставайтесь с нами, отправьте нам лайк. Если письмо не по адресу, жмите кнопку ниже. Мы не будем вам мешать.</p>
+
+              <div style="text-align:center; margin:32px 0;">
+                <a href="#{{opt_out_message}}" style="display:inline-block; padding:12px 32px; background-color:#d62868; color:white; text-decoration:none; border-radius:25px; font-weight:bold; font-size:16px;">Отписаться</a>
+              </div>
+
+              <p>Лето – сложное время для любых медиа. Сейчас наши конкуренты — не только интервью на YouTube и премьеры на Netflix, но и хорошая погода, цветущая сирень, отпуска и каникулы. Несмотря на это, за июнь нас посмотрели 15 миллионов человек — и летом хочется больше баловать себя. Сейчас — самое время для рекламы путешествий и развлечений (книги, подписки, афиши, что угодно). Так не пропускайте лёгкомысленное, в самом приятном смысле, время для продаж!</p>
+
+              <hr style="border:none; border-top:1px solid #aaa; margin:40px 0;">
+
+              <p>Из Амстердама с любовью,<br>Наталья Синдеева<br>и вся команда Дождя</p>
+
+              <hr style="border:none; border-top:1px solid #aaa; margin:40px 0;">
+
+              <!-- ПОДВАЛ КАРТИНКА -->
+              <p style="text-align:center;">
+                <img src="https://cdn.jsdelivr.net/gh/vmnikotin/email_campaign@main/tvrain-ru-temp-image-footer.svg" alt="Логотип Дождя" style="max-width: 338px; width: 100%; height: auto; margin-bottom: 20px;">
+              </p>
+
+              <hr style="border:none; border-top:1px solid #aaa; margin:40px 0;">
+
+              <p style="text-align:center; font-size:14px; color:#555;">
+                <strong><a href="https://tvrain.tv/?form=donate" style="color:#d62868; text-decoration:none;">Поддержите Дождь донатом ❤️</a></strong><br>
+                © Все права защищены. Любое использование только с согласия редакции tvrain.tv
+              </p>
+
+              <!-- СОЦСЕТИ -->
+              <p style="text-align: center; margin-top: 20px; line-height: 1;">
+                <a href="https://www.youtube.com/tvrain" style="margin: 0 8px; display: inline-block; vertical-align: middle;">
+                  <img src="https://cdn.jsdelivr.net/gh/vmnikotin/email_campaign@main/Vector-youtube.svg" alt="YouTube" width="28" style="opacity: 0.5;">
+                </a>
+                <a href="https://t.me/tvrain" style="margin: 0 8px; display: inline-block; vertical-align: middle;">
+                  <img src="https://cdn.jsdelivr.net/gh/vmnikotin/email_campaign@main/Vector-telegram.svg" alt="Telegram" width="28" style="opacity: 0.5;">
+                </a>
+                <a href="https://www.instagram.com/tvrain" style="margin: 0 8px; display: inline-block; vertical-align: middle;">
+                  <img src="https://cdn.jsdelivr.net/gh/vmnikotin/email_campaign@main/Vector-insta.svg" alt="Instagram" width="28" style="opacity: 0.5;">
+                </a>
+              </p>
+
+              <p style="font-size: 12px; color: #888; text-align: center; margin-top: 20px;">
+                Если вы не хотите получать наши письма, <a href="#{{opt_out_message}}" style="color: #d62868;">отпишитесь от рассылки</a>.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+
+</body></html>
